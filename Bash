@@ -1,1 +1,2 @@
 pip install streamlit reportlab
+streamlit run global_flights_app.py
